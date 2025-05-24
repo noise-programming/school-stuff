@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="164.45703"
+   height="184.42499"
+   viewBox="0 0 164.45703 184.42499"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient114"><stop
+         style="stop-color:#b8dfff;stop-opacity:1;"
+         offset="0"
+         id="stop114" /><stop
+         style="stop-color:#8fc1e9;stop-opacity:1;"
+         offset="1"
+         id="stop115" /></linearGradient><linearGradient
+       xlink:href="#linearGradient114"
+       id="linearGradient115"
+       x1="975.27893"
+       y1="1325.8711"
+       x2="986.26947"
+       y2="1336.8616"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer8"
+     transform="translate(-1695.5423,-636.46565)"><g
+       id="g75"
+       style="fill-opacity:1"
+       transform="matrix(6.4337221,0,0,6.4337221,-4552.2041,-7727.9921)"><g
+         id="g80"
+         transform="translate(-9.3258056,2.9529426)"><g
+           id="g90"
+           style="fill:#cbffe3;fill-opacity:1"
+           transform="matrix(4.4739259,0,0,4.4739259,-3551.2806,-4632.5192)"><path
+             d="m 988.36075,1322.8934 c -0.1383,-0.1542 -0.3354,-0.2422 -0.542,-0.2422 H 973.7302 c -0.20663,0 -0.4038,0.088 -0.54199,0.2422 -0.13823,0.1542 -0.20371,0.3601 -0.18116,0.5653 l 1.60195,14.421 c 0.0318,0.2932 0.23932,0.5383 0.52306,0.6191 l 5.44162,1.5546 c 0.0654,0.019 0.13312,0.028 0.20003,0.028 0.0669,0 0.1346,-0.01 0.20009,-0.028 l 5.44165,-1.5546 c 0.2836,-0.081 0.4903,-0.3259 0.523,-0.6191 l 1.6027,-14.421 c 0.023,-0.2052 -0.042,-0.4111 -0.1804,-0.5653 z m -3.5735,7.0865 -0.3244,5.2997 -3.66511,1.1982 -3.6651,-1.1982 -0.13895,-2.5345 h 1.85508 l 0.0466,1.1523 1.9024,0.6453 1.90238,-0.6453 0.1389,-2.0733 h -4.08263 l -0.0924,-1.8435 h 4.26813 l 0.139,-1.8435 h -6.40263 l -0.13894,-1.8441 h 8.48977 z"
+             id="path1-61"
+             style="fill:url(#linearGradient115);fill-opacity:1;stroke-width:0.72749"
+             transform="matrix(0.36759222,0,0,0.36759222,655.2453,839.18607)" /></g></g></g></g></svg>
